@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "333166611938",
+    "firebase_url": "https://tinh-duong-sinh-default-rtdb.firebaseio.com",
+    "project_id": "tinh-duong-sinh",
+    "storage_bucket": "tinh-duong-sinh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333166611938:android:71be2350ed6978f3683dbb",
+        "android_client_info": {
+          "package_name": "tinhkhoedep.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwFpxisdDWMBMlet1cDG2mWHEkVsNA-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
